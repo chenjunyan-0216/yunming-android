@@ -82,8 +82,8 @@ npm run serve              # → http://127.0.0.1:8730,浏览器 F12 切手机�
 
 ## 作者
 
-**陈钧焱** · GitHub [@chenjunyan-0216](https://github.com/chenjunyan-0216)
+**陈钧炎** · GitHub [@chenjunyan-0216](https://github.com/chenjunyan-0216)
 
 ## License
 
-[MIT](./LICENSE) © 陈钧焱 (chenjunyan-0216)
+[MIT](./LICENSE) © 陈钧炎 (chenjunyan-0216)
